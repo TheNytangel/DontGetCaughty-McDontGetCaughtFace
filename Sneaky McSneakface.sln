@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaky McSneakface.Plugins", "Sneaky McSneakface.Plugins.csproj", "{3A4C8192-08C7-4983-B5CA-DFB0F796B5EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaky McSneakface", "Sneaky McSneakface.csproj", "{5E41168F-0DB2-D4C2-6B86-662E0A979FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaky McSneakface.Editor.Plugins", "Sneaky McSneakface.Editor.Plugins.csproj", "{5B0BB452-EE0C-F8C7-7901-DA0B486EF530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4C8192-08C7-4983-B5CA-DFB0F796B5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4C8192-08C7-4983-B5CA-DFB0F796B5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4C8192-08C7-4983-B5CA-DFB0F796B5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4C8192-08C7-4983-B5CA-DFB0F796B5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E41168F-0DB2-D4C2-6B86-662E0A979FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E41168F-0DB2-D4C2-6B86-662E0A979FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E41168F-0DB2-D4C2-6B86-662E0A979FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E41168F-0DB2-D4C2-6B86-662E0A979FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0BB452-EE0C-F8C7-7901-DA0B486EF530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0BB452-EE0C-F8C7-7901-DA0B486EF530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0BB452-EE0C-F8C7-7901-DA0B486EF530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0BB452-EE0C-F8C7-7901-DA0B486EF530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
